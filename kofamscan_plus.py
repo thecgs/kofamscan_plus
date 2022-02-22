@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
 
 """
 2021/07/21
@@ -85,10 +80,3 @@ for line in input:
                 output.write(l)
 
 print('finished')
-
-
-# In[ ]:
-
-
-
-
