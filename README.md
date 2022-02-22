@@ -52,7 +52,7 @@ $ python3 kofamscan_plus.py -K ko00001.keg -i id.txt -o kegg.xls
 
 ## **Note:**
 
-Click here to download the latest [ko00001.keg](https://www.genome.jp/kegg-bin/download_htext?htext=ko00001&format=htext&filedir=) or [br08901.keg](https://www.kegg.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext&filedir=)
+Click here to download the latest [ko00001.keg](https://www.genome.jp/kegg-bin/download_htext?htext=ko00001&format=htext&filedir=) or [br08901.keg](https://www.kegg.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext&filedir=).
 
 This script is used to parse kofamscan software results. 
 
