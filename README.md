@@ -1,6 +1,6 @@
 # **kopfamscan_plus**
 
-**A pipline of KEGG annotation **
+**A pipline of KEGG annotation**
 
 **Author:** guisen chen  |  **Email:** <thecgs001@foxmail.com>
 
