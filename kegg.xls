@@ -1,0 +1,132 @@
+gene_id	K_id	kegg_annotation	ko_id	pathway	B_num	B_level	A_num	A_level
+evm.model.CM018427.2.26	K16479	ODF2; outer dense fiber protein 2	ko03036	Chromosome and associated proteins	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.260	K00746	CSGALNACT1_2; chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:2.4.1.174 2.4.1.175]	ko00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	09107	Glycan biosynthesis and metabolism	09100	Metabolism
+evm.model.CM018427.2.260	K00746	CSGALNACT1_2; chondroitin sulfate N-acetylgalactosaminyltransferase 1/2 [EC:2.4.1.174 2.4.1.175]	ko01003	Glycosyltransferases	09181	Protein families: metabolism	09180	Brite Hierarchies
+evm.model.CM018427.2.262	K17609	NXN; nucleoredoxin [EC:1.8.1.8]	ko01009	Protein phosphatases and associated proteins	09181	Protein families: metabolism	09180	Brite Hierarchies
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04014	Ras signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04371	Apelin signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04151	PI3K-Akt signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04062	Chemokine signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04926	Relaxin signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04724	Glutamatergic synapse	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04727	GABAergic synapse	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04725	Cholinergic synapse	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04728	Dopaminergic synapse	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04726	Serotonergic synapse	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04723	Retrograde endocannabinoid signaling	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04713	Circadian entrainment	09159	Environmental adaptation	09150	Organismal Systems
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko05200	Pathways in cancer	09161	Cancer: overview	09160	Human Diseases
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko05170	Human immunodeficiency virus 1 infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko05163	Human cytomegalovirus infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko05167	Kaposi sarcoma-associated herpesvirus infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko05032	Morphine addiction	09165	Substance dependence	09160	Human Diseases
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko05034	Alcoholism	09165	Substance dependence	09160	Human Diseases
+evm.model.CM018427.2.263	K04545	GNG10; guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-10	ko04031	GTP-binding proteins	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.264	K09783	BTC; betacellulin	ko04012	ErbB signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.264	K09783	BTC; betacellulin	ko00536	Glycosaminoglycan binding proteins	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.265	K08397	RXFP3, RLN3R1; relaxin family peptide receptor 3	ko04080	Neuroactive ligand-receptor interaction	09133	Signaling molecules and interaction	09130	Environmental Information Processing
+evm.model.CM018427.2.265	K08397	RXFP3, RLN3R1; relaxin family peptide receptor 3	ko04926	Relaxin signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.265	K08397	RXFP3, RLN3R1; relaxin family peptide receptor 3	ko04030	G protein-coupled receptors	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.266	K15378	SLC45A1_2_4; solute carrier family 45, member 1/2/4	ko02000	Transporters	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.267	K01796	E5.1.99.4, AMACR, mcr; alpha-methylacyl-CoA racemase [EC:5.1.99.4]	ko00120	Primary bile acid biosynthesis	09103	Lipid metabolism	09100	Metabolism
+evm.model.CM018427.2.267	K01796	E5.1.99.4, AMACR, mcr; alpha-methylacyl-CoA racemase [EC:5.1.99.4]	ko04146	Peroxisome	09141	Transport and catabolism	09140	Cellular Processes
+evm.model.CM018427.2.268	K12384	SCARB2, LIMP2, CD36L2; lysosome membrane protein 2	ko04142	Lysosome	09141	Transport and catabolism	09140	Cellular Processes
+evm.model.CM018427.2.269	K14308	NUP54, NUP57; nuclear pore complex protein Nup54	ko03013	RNA transport	09122	Translation	09120	Genetic Information Processing
+evm.model.CM018427.2.269	K14308	NUP54, NUP57; nuclear pore complex protein Nup54	ko05014	Amyotrophic lateral sclerosis	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.269	K14308	NUP54, NUP57; nuclear pore complex protein Nup54	ko03019	Messenger RNA biogenesis	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.27	K06114	SPTA; spectrin alpha	ko04210	Apoptosis	09143	Cell growth and death	09140	Cellular Processes
+evm.model.CM018427.2.27	K06114	SPTA; spectrin alpha	ko04812	Cytoskeleton proteins	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.270	K13807	PPEF, PPP7C; serine/threonine-protein phosphatase with EF-hands [EC:3.1.3.16]	ko04745	Phototransduction - fly	09157	Sensory system	09150	Organismal Systems
+evm.model.CM018427.2.270	K13807	PPEF, PPP7C; serine/threonine-protein phosphatase with EF-hands [EC:3.1.3.16]	ko01009	Protein phosphatases and associated proteins	09181	Protein families: metabolism	09180	Brite Hierarchies
+evm.model.CM018427.2.272	K15184	AFF1; AF4/FMR2 family member 1	ko05202	Transcriptional misregulation in cancer	09161	Cancer: overview	09160	Human Diseases
+evm.model.CM018427.2.272	K15184	AFF1; AF4/FMR2 family member 1	ko03021	Transcription machinery	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.273	K06560	MRC, CD206, CD280; mannose receptor, C type	ko04145	Phagosome	09141	Transport and catabolism	09140	Cellular Processes
+evm.model.CM018427.2.273	K06560	MRC, CD206, CD280; mannose receptor, C type	ko05152	Tuberculosis	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.273	K06560	MRC, CD206, CD280; mannose receptor, C type	ko04131	Membrane trafficking	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.273	K06560	MRC, CD206, CD280; mannose receptor, C type	ko04054	Pattern recognition receptors	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.273	K06560	MRC, CD206, CD280; mannose receptor, C type	ko04090	CD molecules	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.273	K06560	MRC, CD206, CD280; mannose receptor, C type	ko04091	Lectins	09183	Protein families: signaling and cellular processes	09180	Brite Hierarchies
+evm.model.CM018427.2.274	K10446	KLHL8; kelch-like protein 8	ko04121	Ubiquitin system	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.275	K14856	SDA1, SDAD1; protein SDA1	ko03009	Ribosome biogenesis	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.276	K02374	PTPN13, FAP-1; tyrosine-protein phosphatase non-receptor type 13	ko04210	Apoptosis	09143	Cell growth and death	09140	Cellular Processes
+evm.model.CM018427.2.276	K02374	PTPN13, FAP-1; tyrosine-protein phosphatase non-receptor type 13	ko01009	Protein phosphatases and associated proteins	09181	Protein families: metabolism	09180	Brite Hierarchies
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04141	Protein processing in endoplasmic reticulum	09123	Folding, sorting and degradation	09120	Genetic Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04010	MAPK signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04013	MAPK signaling pathway - fly	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04012	ErbB signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04014	Ras signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04310	Wnt signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04391	Hippo signaling pathway - fly	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04668	TNF signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04068	FoxO signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04071	Sphingolipid signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04024	cAMP signaling pathway	09132	Signal transduction	09130	Environmental Information Processing
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04140	Autophagy - animal	09141	Transport and catabolism	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04137	Mitophagy - animal	09141	Transport and catabolism	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04210	Apoptosis	09143	Cell growth and death	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04214	Apoptosis - fly	09143	Cell growth and death	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04215	Apoptosis - multiple species	09143	Cell growth and death	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04217	Necroptosis	09143	Cell growth and death	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04510	Focal adhesion	09144	Cellular community - eukaryotes	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04530	Tight junction	09144	Cellular community - eukaryotes	09140	Cellular Processes
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04620	Toll-like receptor signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04624	Toll and Imd signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04621	NOD-like receptor signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04622	RIG-I-like receptor signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04625	C-type lectin receptor signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04660	T cell receptor signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04658	Th1 and Th2 cell differentiation	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04659	Th17 cell differentiation	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04657	IL-17 signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04664	Fc epsilon RI signaling pathway	09151	Immune system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04910	Insulin signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04920	Adipocytokine signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04912	GnRH signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04914	Progesterone-mediated oocyte maturation	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04917	Prolactin signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04926	Relaxin signaling pathway	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04935	Growth hormone synthesis, secretion and action	09152	Endocrine system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04728	Dopaminergic synapse	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04723	Retrograde endocannabinoid signaling	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04722	Neurotrophin signaling pathway	09156	Nervous system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04750	Inflammatory mediator regulation of TRP channels	09157	Sensory system	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04361	Axon regeneration	09158	Development and regeneration	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04380	Osteoclast differentiation	09158	Development and regeneration	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04212	Longevity regulating pathway - worm	09149	Aging	09150	Organismal Systems
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05200	Pathways in cancer	09161	Cancer: overview	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05231	Choline metabolism in cancer	09161	Cancer: overview	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05210	Colorectal cancer	09162	Cancer: specific types	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05212	Pancreatic cancer	09162	Cancer: specific types	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05166	Human T-cell leukemia virus 1 infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05170	Human immunodeficiency virus 1 infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05161	Hepatitis B	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05171	Coronavirus disease - COVID-19	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05162	Measles	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05167	Kaposi sarcoma-associated herpesvirus infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05169	Epstein-Barr virus infection	09172	Infectious disease: viral	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05120	Epithelial cell signaling in Helicobacter pylori infection	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05130	Pathogenic Escherichia coli infection	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05132	Salmonella infection	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05131	Shigellosis	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05135	Yersinia infection	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05133	Pertussis	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05152	Tuberculosis	09171	Infectious disease: bacterial	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05145	Toxoplasmosis	09174	Infectious disease: parasitic	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05142	Chagas disease	09174	Infectious disease: parasitic	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05010	Alzheimer disease	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05012	Parkinson disease	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05016	Huntington disease	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05017	Spinocerebellar ataxia	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05020	Prion disease	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05022	Pathways of neurodegeneration - multiple diseases	09164	Neurodegenerative disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05417	Lipid and atherosclerosis	09166	Cardiovascular disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05418	Fluid shear stress and atherosclerosis	09166	Cardiovascular disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko05415	Diabetic cardiomyopathy	09166	Cardiovascular disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04930	Type II diabetes mellitus	09167	Endocrine and metabolic disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04932	Non-alcoholic fatty liver disease	09167	Endocrine and metabolic disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04931	Insulin resistance	09167	Endocrine and metabolic disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko04933	AGE-RAGE signaling pathway in diabetic complications	09167	Endocrine and metabolic disease	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko01522	Endocrine resistance	09176	Drug resistance: antineoplastic	09160	Human Diseases
+evm.model.CM018427.2.277	K04440	JNK; mitogen-activated protein kinase 8/9/10 (c-Jun N-terminal kinase) [EC:2.7.11.24]	ko01001	Protein kinases	09181	Protein families: metabolism	09180	Brite Hierarchies
+evm.model.CM018427.2.278	K20642	ARHGAP22_24_25; Rho GTPase-activating protein 22/24/25	ko04131	Membrane trafficking	09182	Protein families: genetic information processing	09180	Brite Hierarchies
+evm.model.CM018427.2.28	K22868	WDR34; WD repeat-containing protein 34	ko03036	Chromosome and associated proteins	09182	Protein families: genetic information processing	09180	Brite Hierarchies
