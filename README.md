@@ -1,4 +1,4 @@
-# **kopfamscan_plus**
+# **kofamscan_plus**
 
 **A pipline of KEGG annotation**
 
